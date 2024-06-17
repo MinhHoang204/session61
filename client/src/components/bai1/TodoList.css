@@ -1,0 +1,19 @@
+.app {
+    text-align: center;
+}
+  
+input[type="text"] {
+    margin-bottom: 10px;
+}
+  
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
